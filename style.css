@@ -18,9 +18,8 @@ body{
     #intro{
         height:1000px; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);;
         color: white;
     }
  }
@@ -29,9 +28,8 @@ body{
     #intro{
         height: 950px; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
         color: white;
     }
  }
@@ -40,9 +38,8 @@ body{
     #intro{
         height: 900px;; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
         color: white;
     }
  }
@@ -51,9 +48,8 @@ body{
     #intro{
         height:600px; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
         color: white;
     }
  }
@@ -62,9 +58,8 @@ body{
     #intro{
         height:600px; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
         color: white;
     }
 }
@@ -73,9 +68,8 @@ body{
     #intro{
         height:600px; 
         padding:120px 0;
-        background-image:url("/vezba-2/top-bgr.png");
-        background-repeat: repeat-y;
-        background-size: contain;
+        background-color: #0061f2;
+        background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
         color: white;
     }
  }

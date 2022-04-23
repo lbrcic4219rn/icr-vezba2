@@ -1,0 +1,74 @@
+/* font-family: 'Roboto', sans-serif; */
+
+.py-6 {
+    padding-top: 6rem!important;
+    padding-bottom: 6rem!important;
+}
+
+body{
+    font-family: 'Roboto', sans-serif; 
+
+}
+#top-nav {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#intro{
+    height:600px; 
+    padding:120px 0;
+    background-image:url("/vezba-2/top-bgr.png");
+    background-repeat: repeat-y;
+    background-size: contain;
+    color: white;
+}
+
+#intro img {
+    width: 17rem;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#intro-separator {
+    width: 100%;
+    background-image:url('top-border.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:top;
+}
+
+svg.brand{
+    height:40px;
+}
+svg.brand path{
+    fill:#c5ccd6;
+}
+
+#artwork, #livetype {
+    height: 3rem;
+    margin-right: 0.5rem;
+}
+
+.icon {
+    border-radius:50%;
+    background-color: #0061f2;
+    background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%);
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+i {
+    color:white;
+    font-size: 2rem;
+}
+
+#navicon {
+    color:white;
+    font-size: 1rem;
+}
